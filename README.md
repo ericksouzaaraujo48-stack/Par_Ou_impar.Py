@@ -139,5 +139,3 @@ Desenvolvido por Erick Souza Miranda Araujo, RA: 325130051
 Projeto criado como parte da atividade **Lista de Exercícios II**, da disciplina de Garantia da Qualidade de Software.
 
 ---
-
-<p align="center">Feito com 🐍 e muito ☕</p>
