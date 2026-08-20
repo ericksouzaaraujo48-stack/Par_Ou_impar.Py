@@ -134,11 +134,9 @@ O número 12 é Par.
 
 ## Sobre o Autor
 
-Desenvolvido por **[Seu Nome Aqui]** — RA: **[Seu RA Aqui]**
+Desenvolvido por Erick Souza Miranda Araujo, RA: 325130051
 
 Projeto criado como parte da atividade **Lista de Exercícios II**, da disciplina de Garantia da Qualidade de Software.
-
-Nome: Erick Souza Miranda Araujo, RA:325130051
 
 ---
 
